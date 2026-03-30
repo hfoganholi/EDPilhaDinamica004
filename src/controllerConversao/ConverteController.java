@@ -1,6 +1,6 @@
 package controllerConversao;
 
-import controller.PilhasDinamicasIntController;
+import com.github.hfoganholi.controller.PilhasDinamicasIntController;
 
 public class ConverteController {
 
